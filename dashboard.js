@@ -8,8 +8,8 @@
   // ===================== CONFIG =====================
 
   const CONFIG = {
-    API_URL: 'http://localhost:3000/status',
-    STREAM_URL: 'http://localhost:3000/stream',
+    API_URL: 'https://api-4srz.onrender.com/status',
+    STREAM_URL: 'https://api-4srz.onrender.com/stream',
   };
 
   const COLORS = {
